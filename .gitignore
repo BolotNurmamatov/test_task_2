@@ -1,0 +1,8 @@
+# venv
+venv/
+
+# Python cache folders
+__pycache__/
+.pytest_cache/
+
+artifacts/
